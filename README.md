@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SandKrish/SandKrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Capture](https://user-images.githubusercontent.com/66886190/143616813-29d71741-c4d8-4ffb-9a66-556f54f870df.jpeg)
 
-![Capture.PNG](C:/Users/gopes/Desktop/Capture.PNG)
+
