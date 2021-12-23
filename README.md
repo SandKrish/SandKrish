@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+![Capture](https://user-images.githubusercontent.com/66886190/147277460-5ae1f144-4ea6-440f-9930-ffb58142b5aa.PNG)
 
 
-![Capture](https://user-images.githubusercontent.com/66886190/147109608-16a53b4f-5bbc-46ad-b428-a44b5ed00f38.PNG)
+
 
 
 
