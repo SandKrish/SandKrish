@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Capture](https://user-images.githubusercontent.com/66886190/148799633-7b7b9787-02a8-471c-9d68-3f49944e9e87.PNG)
-![Capture1](https://user-images.githubusercontent.com/66886190/148799572-03245dde-f3e7-45f4-b48d-e3b9b0c775b6.PNG)
-![Capture2](https://user-images.githubusercontent.com/66886190/148799757-a12da204-7567-4153-998b-eea64f292a45.PNG)
+![Capture](https://user-images.githubusercontent.com/66886190/149637107-cf470c4a-dcb8-4e1b-bfa1-0325570a11ab.PNG)
+![Capture1](https://user-images.githubusercontent.com/66886190/149637109-0a6c5ad2-2258-45bc-8689-2954472d9b82.PNG)
+![Capture2](https://user-images.githubusercontent.com/66886190/149637112-dd3f2825-0554-461c-9b80-7dcff3b5249d.PNG)
 
 
 
