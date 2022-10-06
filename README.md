@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"/>
   <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif"/>
-  <img src="https://media.giphy.com/media/TinIsnGaei6zQetzrc/giphy.gif"/>
-
-</div>
+ </div>
 
 ![](https://komarev.com/ghpvc/?username=SandKrish&color=blueviolet)
 
