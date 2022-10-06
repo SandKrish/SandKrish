@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=SandKrish)
+![](https://komarev.com/ghpvc/?username=SandKrish&color=blueviolet)
 
 ![Capture](https://user-images.githubusercontent.com/66886190/185049122-a4407778-346a-48b6-84ee-53327cb9bc78.PNG)
 ![Capture2](https://user-images.githubusercontent.com/66886190/152692506-e1f12f7d-4c90-4bd2-a137-3e2fd63d1b41.PNG)
