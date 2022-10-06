@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif" width="100"/>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=SandKrish&color=blueviolet)
 
 ![Capture](https://user-images.githubusercontent.com/66886190/185049122-a4407778-346a-48b6-84ee-53327cb9bc78.PNG)
