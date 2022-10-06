@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=SandKrish&color=blueviolet)
