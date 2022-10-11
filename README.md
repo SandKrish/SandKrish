@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-![](https://komarev.com/ghpvc/?username=SandKrish&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   /div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sandhya-krishnan-40a20895/">
