@@ -8,8 +8,13 @@
   <a href="https://www.kaggle.com/sandhyakrishnan02">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/12939824/sandhya-krishnan">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
+  </a>
+  <a href="https://twitter.com/home?lang=en">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif"/>
