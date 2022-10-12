@@ -34,7 +34,7 @@
  </div>
 
 ---
-
+<div align="left">
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Data Quality Engineering Manager, ensuring high data quality using python scripts.
 
@@ -42,7 +42,7 @@
 
 - :zap: In my free time I do kaggling and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/) </div>
 
 ![Capture](https://user-images.githubusercontent.com/66886190/185049122-a4407778-346a-48b6-84ee-53327cb9bc78.PNG)
 ![Capture2](https://user-images.githubusercontent.com/66886190/152692506-e1f12f7d-4c90-4bd2-a137-3e2fd63d1b41.PNG)
