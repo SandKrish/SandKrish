@@ -30,7 +30,9 @@
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"/>
  </div>
 
+---
 
+### :woman_technologist: About Me :
 
 ![Capture](https://user-images.githubusercontent.com/66886190/185049122-a4407778-346a-48b6-84ee-53327cb9bc78.PNG)
 ![Capture2](https://user-images.githubusercontent.com/66886190/152692506-e1f12f7d-4c90-4bd2-a137-3e2fd63d1b41.PNG)
