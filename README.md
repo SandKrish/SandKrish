@@ -35,8 +35,11 @@
 
 ---
 <div align="left">
-### :woman_technologist: 
-- :About Me : I am working as a Data Quality Engineering Manager 
+  <h1>
+   About Me  
+</h1>
+
+- :woman_technologist: I am working as a Data Quality Engineering Manager 
   
 - :telescope: My main job responsibility is to ensure data are of high quality using python scripts.
 
