@@ -57,7 +57,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
   <div>
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandKrish)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SandKrish)
    </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SandKrish&theme=highcontrast&show_icons=true&count_private=true)
