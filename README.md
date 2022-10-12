@@ -50,7 +50,9 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/) </div>
 
 
-
+<div>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  </div>
 
 
 
