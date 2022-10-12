@@ -35,9 +35,10 @@
 
 ---
 <div align="left">
-### :woman_technologist: About Me : I am working as a Data Quality Engineering Manager 
+### :woman_technologist: 
+- :About Me : I am working as a Data Quality Engineering Manager 
   
-- :telescope: My main role includes ensuring high data quality using python scripts.
+- :telescope: My main job responsibility is to ensure data are of high quality using python scripts.
 
 - :seedling: Writes in Medium about Data Quality, Data Science, Machine Learning and Deep Learning.
 
