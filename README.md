@@ -51,7 +51,7 @@
 
 
 <div>
-  <img src="(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
   </div>
 
