@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif"  width="100px"/>
-  <img src="https://komarev.com/ghpvc/?username=SandKrish&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=SandKrish&style=flat-square&color=blue" alt="" align="center"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sandhya-krishnan-40a20895/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
