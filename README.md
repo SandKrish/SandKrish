@@ -49,7 +49,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/) </div>
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
   <img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
