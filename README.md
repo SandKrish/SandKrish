@@ -39,7 +39,7 @@
   
 - :telescope: My main job responsibility is to ensure data are of high quality using python scripts.
 
-- :seedling: Writes in Medium about Data Quality, Data Science, Machine Learning and Deep Learning.
+- :seedling: I writes in Medium about Data Quality, Data Science, Machine Learning, and Deep Learning.
 
 - :zap: In my free time I do kaggling and read tech articles.
 
