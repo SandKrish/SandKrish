@@ -40,9 +40,9 @@
 
 - :woman_technologist: I am working as a Data Quality Engineering Manager 
   
-- :telescope: My main job responsibility is to ensure data are of high quality using python scripts.
+- :telescope: My main job responsibility is to ensure data are of high quality using Python scripts.
 
-- :seedling: I writes in Medium about Data Quality, Data Science, Machine Learning, and Deep Learning.
+- :seedling: I write in Medium about Data Quality, Data Science, Machine Learning, and Deep Learning.
 
 - :zap: In my free time I do kaggling and read tech articles.
 
