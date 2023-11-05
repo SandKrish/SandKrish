@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/12939824/sandhya-krishnan">
-     
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="https://twitter.com/home?lang=en">
