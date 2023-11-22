@@ -58,7 +58,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 
    <div align="left">
-  <h2>💎: Languages Spoken : </h2>
+  <h2>💎 Languages Spoken : </h2>
 
 - English (C2)
 - German (A2)
