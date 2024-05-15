@@ -16,9 +16,6 @@
   <a href="https://stackoverflow.com/users/12939824/sandhya-krishnan">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <a href="https://twitter.com/home?lang=en">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
     <a href="https://www.youtube.com/watch?v=bHWJcS5CbvU&t=1s">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
