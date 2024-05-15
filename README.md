@@ -60,7 +60,7 @@
   <h2>💎 Languages Spoken : </h2>
 
 - English (C2)
-- German (A2)
+- German (B1)
 
 
 
