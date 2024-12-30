@@ -34,9 +34,10 @@
 
 - :woman_technologist: I am working as a Senior Python Developer. 
   
-- :telescope: I ensure data are of high quality using Python scripts.
+- :wrench: I develop and maintain efficient Python applications to ensure seamless data processing and system performance.
 
-- :seedling: I write in Medium about Data Quality, Data Science, Machine Learning, and Deep Learning.
+
+- :seedling: I write in Medium about Python, Data Science, Data Analysis, Data Quality,  Machine Learning, and Deep Learning.
 
 - :zap: In my free time I do kaggling and read tech articles.
 
