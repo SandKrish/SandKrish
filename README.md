@@ -32,7 +32,7 @@
 <div align="left">
   <h1>👩‍💻 About Me </h1>
 
-- :woman_technologist: I am working as a Data Quality Engineering Manager.
+- :woman_technologist: I am working as a Senior Python Developer. 
   
 - :telescope: I ensure data are of high quality using Python scripts.
 
