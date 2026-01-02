@@ -42,7 +42,8 @@
    - Building reusable reporting frameworks and visualizations  
    - Data validation, anomaly detection, and quality engineering  
    - Writing testable, maintainable, production-grade code  
-   - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
+
+- :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
 
 - :seedling:  I write on **Medium** about Python, Data Science, Data Analysis, Data Quality, and Machine Learning — translating complex concepts into practical insights.
 
