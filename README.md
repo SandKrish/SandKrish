@@ -34,12 +34,12 @@
 
 - :woman_technologist: Senior Python Developer with 14+ years of experience across Python development, data automation, and data quality engineering. 
   
-- :wrench: I develop and maintain efficient Python applications to ensure seamless data processing and system performance.
+- :wrench: I design, build, and maintain scalable Python applications focused on **data processing, Excel automation, reporting pipelines, and analytical workflows**, with strong emphasis on performance, reliability, and clean architecture.
 
 
-- :seedling: I write in Medium about Python, Data Science, Data Analysis, Data Quality,  Machine Learning, and Deep Learning.
+- :seedling:  I write on **Medium** about Python, Data Science, Data Analysis, Data Quality, and Machine Learning — translating complex concepts into practical insights.
 
-- :zap: In my free time I do kaggling and read tech articles.
+- :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/) </div>
 
