@@ -32,7 +32,7 @@
 <div align="left">
   <h1>👩‍💻 About Me </h1>
 
-- :woman_technologist: I am working as a Senior Python Developer. 
+- :woman_technologist: Senior Python Developer with 14+ years of experience across Python development, data automation, and data quality engineering. 
   
 - :wrench: I develop and maintain efficient Python applications to ensure seamless data processing and system performance.
 
