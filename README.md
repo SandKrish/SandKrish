@@ -37,12 +37,12 @@
 - :wrench: I design, build, and maintain scalable Python applications focused on **data processing, Excel automation, reporting pipelines, and analytical workflows**, with strong emphasis on performance, reliability, and clean architecture.
 
 - :bar_chart: Hands-on experience in:
-- Python automation & scripting  
-- Data processing using pandas, NumPy, and Excel engines  
-- Building reusable reporting frameworks and visualizations  
-- Data validation, anomaly detection, and quality engineering  
-- Writing testable, maintainable, production-grade code  
-- :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
+   - Python automation & scripting  
+   - Data processing using pandas, NumPy, and Excel engines  
+   - Building reusable reporting frameworks and visualizations  
+   - Data validation, anomaly detection, and quality engineering  
+   - Writing testable, maintainable, production-grade code  
+   - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
 
 - :seedling:  I write on **Medium** about Python, Data Science, Data Analysis, Data Quality, and Machine Learning — translating complex concepts into practical insights.
 
