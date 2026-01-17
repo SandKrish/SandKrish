@@ -5,8 +5,7 @@
    <img src="https://komarev.com/ghpvc/?username=SandKrish&style=flat-square&color=blue" alt=""/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/sandhya-krishnan-40a20895/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   <a href = "https://x.com/PythonDataStats/"><<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
->
+   <a href = "https://x.com/PythonDataStats/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
    <a href="https://leetcode.com/sandhyakrishnan02/">
        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
   <a href="https://www.kaggle.com/sandhyakrishnan02">
