@@ -50,7 +50,7 @@
 
 - :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/) </div>
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) </div>
 
 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Sandhya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
