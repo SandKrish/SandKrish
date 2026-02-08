@@ -17,7 +17,7 @@
   <a href="https://stackoverflow.com/users/12939824/sandhya-krishnan">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-    <a href="https://www.youtube.com/watch?v=bHWJcS5CbvU&t=1s">
+    <a href="https://www.youtube.com/@PythonDataStats">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     </a>
