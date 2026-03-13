@@ -34,10 +34,9 @@
   <h1>👩‍💻 About Me </h1>
 
 - :woman_technologist: Senior Python Developer | Data Engineering | Machine Learning | 14 +years of IT experience. 
-  
-- :wrench: 4+ years building Python data pipelines and analytics systems
-- :wrench: Experience: Pandas, Polars, ML, Data Processing
-- :wrench: Interested in: AI, ML, Distributed Systems
+   - 4+ years building Python data pipelines and analytics systems
+   - Experience: Pandas, Polars, ML, Data Processing
+   - Interested in: AI, ML, Distributed Systems
 
 - :bar_chart: Featured Projects:
    - Python Excel Automation Engine
