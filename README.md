@@ -33,16 +33,18 @@
 <div align="left">
   <h1>👩‍💻 About Me </h1>
 
-- :woman_technologist: Senior Python Developer | Data Engineering | Machine Learning. 
+- :woman_technologist: Senior Python Developer | Data Engineering | Machine Learning | 14 +years of IT experience. 
   
-- :wrench: I design, build, and maintain scalable Python applications focused on **data processing, Excel automation, reporting pipelines, and analytical workflows**, with strong emphasis on performance, reliability, and clean architecture.
+- :wrench: 4+ years building Python data pipelines and analytics systems
+- :wrench: Experience: Pandas, Polars, ML, Data Processing
+- :wrench: Interested in: AI, ML, Distributed Systems
 
-- :bar_chart: Hands-on experience in:
-   - Python automation & scripting  
-   - Data processing using pandas, NumPy, and Excel engines  
-   - Building reusable reporting frameworks and visualizations  
-   - Data validation, anomaly detection, and quality engineering  
-   - Writing testable, maintainable, production-grade code  
+- :bar_chart: Featured Projects:
+   - Python Excel Automation Engine
+   - Data Quality Pipeline (Python + Pandas)
+   - Time Series Forecasting System
+   - LLM Cost Monitoring Tool 
+
 
 - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
 
