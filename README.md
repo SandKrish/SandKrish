@@ -57,9 +57,9 @@
 
 - :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) |  <a href="https://medium.com/@sandhyakrishnan02">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a></div>
+- 📫: How to reach me:
+[![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sandhyakrishnan02)
 
 
 <div align="left">
