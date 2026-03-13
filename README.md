@@ -58,8 +58,10 @@
 - :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
 - 📫: How to reach me:
-[![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sandhyakrishnan02)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@PythonDataStats-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PythonDataStats)
+[![Medium Badge](https://img.shields.io/badge/Medium-@sandhyakrishnan02-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sandhyakrishnan02)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sandhya%20Krishnan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
 
 
 <div align="left">
