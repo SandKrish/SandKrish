@@ -32,9 +32,9 @@
 
 <div align="left">
   <h1>👩‍💻 About Me </h1>
-- :📚 Author of the book:
+- 📚 Author of the book
    - Python Coding for Kids (Ages 8–10): A Visual Step-by-Step Guide to Learning Programming.
-   - The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
+ -   The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
      Available on Amazon Kindle.
 
 - :woman_technologist: 14+ years in software engineering
