@@ -42,7 +42,6 @@
 
 </div>
 
----
 
 # Hi 👋 I'm Sandhya Krishnan — Senior Python Developer
 
@@ -63,7 +62,6 @@ Available on **Amazon Kindle**.
 
 • Interested in: **AI, Machine Learning, Distributed Systems**
 
----
 
 ## 📊 Featured Projects
 
@@ -79,7 +77,6 @@ Forecasting models for temporal data using statistical and ML approaches
 **LLM Cost Monitoring Tool**
 Tool for analyzing token usage and cost optimization in LLM APIs
 
----
 
 ## ✍️ Writing
 
@@ -90,13 +87,11 @@ I write on **Medium** about:
 • Data quality systems
 • Practical Machine Learning concepts
 
----
 
 ## ⚡ Interests
 
 In my free time I explore **Kaggle datasets**, experiment with new tools, and stay updated with evolving tech trends.
 
----
 
 ## 📫 Connect With Me
 
@@ -106,7 +101,6 @@ In my free time I explore **Kaggle datasets**, experiment with new tools, and st
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sandhya%20Krishnan-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
 
----
 
 ## 🛠 Languages and Tools
 
@@ -119,7 +113,6 @@ In my free time I explore **Kaggle datasets**, experiment with new tools, and st
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" width="40"/>
 
----
 
 ## 💎 Languages Spoken
 
