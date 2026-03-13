@@ -33,7 +33,7 @@
 <div align="left">
   <h1>👩‍💻 About Me </h1>
 
-- :woman_technologist: Senior Python Developer with 14+ years of experience across Python development, data automation, and data quality engineering. 
+- :woman_technologist: Senior Python Developer | Data Engineering | Machine Learning. 
   
 - :wrench: I design, build, and maintain scalable Python applications focused on **data processing, Excel automation, reporting pipelines, and analytical workflows**, with strong emphasis on performance, reliability, and clean architecture.
 
