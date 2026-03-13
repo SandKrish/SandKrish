@@ -39,7 +39,7 @@
    - Interested in: AI, ML, Distributed Systems
 
 - :bar_chart: Featured Projects:
- • Python Excel Automation Engine  
+   - Python Excel Automation Engine  
      Automated Excel reporting using Pandas, OpenPyXL, and XlsxWriter.
    - Data Quality Pipeline  
      Python-based validation pipeline for detecting anomalies in datasets.
@@ -52,14 +52,14 @@
 - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
 
 - ✍️: I write on Medium about:
-• Python engineering
-• Data pipelines and analytics
-• Data quality systems
-• Machine Learning concepts explained practically
+- • Python engineering
+- • Data pipelines and analytics
+- • Data quality systems
+- • Machine Learning concepts explained practically
 
 - :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) </div>
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@PythonDataStats-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/PythonDataStats) </div> | [![Medium Badge](https://img.shields.io/badge/-@sandhyakrishnan02-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://medium.com/@sandhyakrishnan02) </div>
 
 
 <div align="left">
