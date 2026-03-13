@@ -39,7 +39,7 @@
    - Interested in: AI, ML, Distributed Systems
 
 - :bar_chart: Featured Projects:
-   - Python Excel Automation Engine  
+ • Python Excel Automation Engine  
      Automated Excel reporting using Pandas, OpenPyXL, and XlsxWriter.
    - Data Quality Pipeline  
      Python-based validation pipeline for detecting anomalies in datasets.
@@ -51,7 +51,11 @@
 
 - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
 
-- :seedling:  I write on **Medium** about Python, Data Science, Data Analysis, Data Quality, and Machine Learning — translating complex concepts into practical insights.
+- ✍️: I write on Medium about:
+• Python engineering
+• Data pipelines and analytics
+• Data quality systems
+• Machine Learning concepts explained practically
 
 - :zap:  In my free time, I explore Kaggle datasets, experiment with new tools, and stay updated with evolving tech trends.
 
