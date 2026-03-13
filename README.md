@@ -27,22 +27,26 @@
 
  
   <h1>
-  Hi...   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Sandhya Krishnan
+  Hi...   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sandhya Krishnan
 </h1>
 
 <div align="left">
   <h1>👩‍💻 About Me </h1>
 
-- :woman_technologist: Senior Python Developer | Data Engineering | Machine Learning | 14 +years of IT experience. 
+- :woman_technologist: Senior Python Developer with 14+ years of IT experience.
    - 4+ years building Python data pipelines and analytics systems
    - Experience: Pandas, Polars, ML, Data Processing
    - Interested in: AI, ML, Distributed Systems
 
 - :bar_chart: Featured Projects:
-   - Python Excel Automation Engine
-   - Data Quality Pipeline (Python + Pandas)
-   - Time Series Forecasting System
-   - LLM Cost Monitoring Tool 
+   - Python Excel Automation Engine  
+     Automated Excel reporting using Pandas, OpenPyXL, and XlsxWriter.
+   - Data Quality Pipeline  
+     Python-based validation pipeline for detecting anomalies in datasets.
+   - Time Series Forecasting System  
+     Forecasting models for temporal data using statistical and ML approaches.
+   - LLM Cost Monitoring Tool  
+     Tool for analyzing token usage and cost optimization in LLM APIs.
 
 
 - :brain: Actively upskilling in **Data Science, Machine Learning, and AI**, and applying these concepts to real-world automation and analytics problems.
