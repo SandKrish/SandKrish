@@ -32,7 +32,7 @@
 
 <div align="left">
   <h1>👩‍💻 About Me </h1>
-- 📚: Author of the book
+- 📚 Author of the book:
    - Python Coding for Kids (Ages 8–10): A Visual Step-by-Step Guide to Learning Programming.
    - The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
      Available on Amazon Kindle.
@@ -53,7 +53,7 @@
      Tool for analyzing token usage and cost optimization in LLM APIs.
 
 
-- ✍️: I write on Medium about:
+- ✍️ I write on Medium about:
    - Python engineering
    - Data pipelines and analytics
    - Data quality systems
