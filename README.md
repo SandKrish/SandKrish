@@ -32,7 +32,7 @@
 
 <div align="left">
   <h1>👩‍💻 About Me </h1>
-- 📚 Author of the book</div>
+- 📚 Author of the book
 
   **Python Coding for Kids (Ages 8–10): A Visual Step-by-Step Guide to Learning Programming**
   The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
