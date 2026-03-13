@@ -27,13 +27,18 @@
 
  
   <h1>
-  Hi...   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sandhya Krishnan
+  Hi...   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sandhya Krishnan — Senior Python Developer
 </h1>
 
 <div align="left">
   <h1>👩‍💻 About Me </h1>
+- 📚 Author
+   - Author of the book **“Python Coding for Kids (Ages 8–10): A Visual Step-by-Step Guide to Learning Programming ”**.
+     The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
+     Available on Amazon Kindle.
 
-- :woman_technologist: Senior Python Developer with 14+ years of IT experience.
+- :woman_technologist:
+   - 14+ years in software engineering
    - 4+ years building Python data pipelines and analytics systems
    - Experience: Pandas, Polars, ML, Data Processing
    - Interested in: AI, ML, Distributed Systems
