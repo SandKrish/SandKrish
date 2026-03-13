@@ -88,30 +88,23 @@ I write on **Medium** about:
 • Practical Machine Learning concepts
 
 
-## ⚡ Interests
-
-In my free time I explore **Kaggle datasets**, experiment with new tools, and stay updated with evolving tech trends.
 
 
 ## 📫 Connect With Me
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@PythonDataStats-1DA1F2?style=flat\&logo=twitter\&logoColor=white)](https://x.com/PythonDataStats)
-
-[![Medium Badge](https://img.shields.io/badge/Medium-@sandhyakrishnan02-12100E?style=flat\&logo=medium\&logoColor=white)](https://medium.com/@sandhyakrishnan02)
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sandhya%20Krishnan-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@PythonDataStats-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PythonDataStats) [![Medium Badge](https://img.shields.io/badge/Medium-@sandhyakrishnan02-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sandhyakrishnan02) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sandhya%20Krishnan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
 
 
 ## 🛠 Languages and Tools
 
-<img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" width="40"/>
+<<img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
 
 
 ## 💎 Languages Spoken
