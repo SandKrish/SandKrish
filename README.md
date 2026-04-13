@@ -62,6 +62,23 @@ Available on **Amazon Kindle**.
 
 • Interested in: **AI, Machine Learning, Distributed Systems**
 
+## 🤖 Featured Project – Ari (AI Agent Dashboard)
+
+🚀 **Ari** is an AI-powered agent dashboard designed as a unified command center to manage workflows, automate repetitive tasks, and reduce context switching across tools.
+
+👩‍💻 Built collaboratively:
+- **Python backend & automation logic** by me  
+- **Admin & system design** by my husband  
+
+⚡ Key Highlights:
+- AI-driven workflow automation  
+- Task orchestration across tools  
+- Smart data handling and integrations  
+- Designed for real-world productivity use cases  
+
+🎥 **Demo:** https://www.youtube.com/@PythonDataStats  
+🔗 **More about me:** https://www.linkedin.com/in/sandhya-krishnan-40a20895/
+
 
 ## 📊 Featured Projects
 
