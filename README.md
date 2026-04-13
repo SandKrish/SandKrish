@@ -76,7 +76,7 @@ Available on **Amazon Kindle**.
 - Smart data handling and integrations  
 - Designed for real-world productivity use cases  
 
-🎥 [![Ari Demo](https://img.shields.io/badge/Ari-Demo-0A66C2?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
+🎥 [![Ari Demo](https://img.shields.io/badge/Ari-Demo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
 
 
 ## 📊 Featured Projects
