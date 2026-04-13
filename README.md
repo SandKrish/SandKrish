@@ -76,8 +76,7 @@ Available on **Amazon Kindle**.
 - Smart data handling and integrations  
 - Designed for real-world productivity use cases  
 
-🎥 **Demo:** https://www.youtube.com/@PythonDataStats  
-🔗 **More about me:** https://www.linkedin.com/in/sandhya-krishnan-40a20895/
+🎥 [![Ari Demo](https://img.shields.io/badge/Ari-Demo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
 
 
 ## 📊 Featured Projects
