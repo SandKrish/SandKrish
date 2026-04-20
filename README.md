@@ -105,33 +105,10 @@ Forecasting models for temporal data using statistical and ML approaches.
 ### ✍️ Writing
 I frequently write on Medium about Python engineering, Data pipelines, Data quality systems, and Practical Machine Learning concepts. Check out my articles on [Medium](https://sandhyakrishnan02.medium.com/)!
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandKrish&show_icons=true&theme=radical&hide_border=true" alt="SandKrish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandKrish&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
-
 
 ## 📫 Connect With Me
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@PythonDataStats-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PythonDataStats) [![Medium Badge](https://img.shields.io/badge/Medium-@sandhyakrishnan02-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sandhyakrishnan02) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sandhya%20Krishnan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandhya-krishnan-40a20895/)
-
-
-## 🛠 Languages and Tools
-
-<img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
 
 
 ## 💎 Languages Spoken
