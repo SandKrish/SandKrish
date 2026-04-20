@@ -50,8 +50,6 @@
 
 📚 **Author** of *[Python Coding for Kids (Ages 8–10)](https://github.com/SandKrish/python-coding-for-kids-ages-8-10-a-visual-step-by-step-guide-to-learning-programming)* – A Visual Step-by-Step Guide to Learning Programming, available on Amazon Kindle.
 
-The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
-Available on **Amazon Kindle**.
 
 • 👩‍💻 **14+ years in software engineering**
 
@@ -60,6 +58,22 @@ Available on **Amazon Kindle**.
 • Experience: **Pandas, Polars, Machine Learning, Data Processing**
 
 • Interested in: **AI, Machine Learning, Distributed Systems**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
 
 ## 🤖 Featured Project – Ari (AI Agent Dashboard)
 
