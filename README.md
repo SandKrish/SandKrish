@@ -77,25 +77,25 @@
 
 ## 🤖 Featured Project – Ari (AI Agent Dashboard)
 
-🚀 **Ari** is an AI-powered agent dashboard designed as a unified command center to manage workflows, automate repetitive tasks, and reduce context switching across tools.
+🚀 **Ari** is an AI-powered agent dashboard designed as a unified command center to manage workflows, automate repetitive tasks, and reduce context switching across tools. Integrates LLMs (Ollama) and WhatsApp (Twilio).
 
 👩‍💻 Built collaboratively:
-- **Python backend & automation logic** by me  
-- **Admin & system design** by my husband  
+• **Python backend & automation logic** by me  
+• **Admin & system design** by my husband  
 
 ⚡ Key Highlights:
-- AI-driven workflow automation  
-- Task orchestration across tools  
-- Smart data handling and integrations  
-- Designed for real-world productivity use cases  
+• AI-driven workflow automation  
+• Task orchestration across tools  
+• Smart data handling and integrations  
+• Designed for real-world productivity use cases  
 
 🎥 [![Ari Demo](https://img.shields.io/badge/Ari-Demo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7448793133892665344/)
 
 
-## 📊 Featured Projects
+## 📊 Other Featured Projects
 
-**Python Excel Automation Engine**
-Automated Excel reporting using **Pandas, OpenPyXL, and XlsxWriter**
+#### 📊 [Python Excel Automation Engine](https://github.com/SandKrish/python-automation-system)
+Enterprise-grade, professional Python automation framework for multi-sheet Excel ingestion, Pydantic-based data validation, and high-fidelity scientific visualizations using Seaborn and Matplotlib.
 
 **Data Quality Pipeline**
 Python-based validation pipeline for detecting anomalies in datasets
