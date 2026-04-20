@@ -46,11 +46,9 @@
 ---
 
 ## 👩‍💻 About Me
-* 🚀 **14+ years** in software engineering, with **4+ years** specializing in building scalable Python data pipelines and analytics systems.
+🚀 **14+ years** in software engineering, with **4+ years** specializing in building scalable Python data pipelines and analytics systems.
 
-📚 **Author of the book**
-
-**Python Coding for Kids (Ages 8–10): A Visual Step-by-Step Guide to Learning Programming**
+📚 **Author** of *[Python Coding for Kids (Ages 8–10)](https://github.com/SandKrish/python-coding-for-kids-ages-8-10-a-visual-step-by-step-guide-to-learning-programming)* – A Visual Step-by-Step Guide to Learning Programming, available on Amazon Kindle.
 
 The book introduces young learners to programming concepts through simple Python examples and hands-on exercises.
 Available on **Amazon Kindle**.
