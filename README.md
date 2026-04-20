@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://media.giphy.com/media/nNOAPjUdo4mpZFkDf8/giphy.gif" width="100px"/>
-
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=SandKrish&style=flat-square&color=blue" alt=""/>
-
 <br><br>
 
 <h1 align="center">Hi there, I'm Sandhya Krishnan (SandKrish) 👋</h1>
