@@ -44,7 +44,20 @@
 
 
 <h1 align="center">Hi there, I'm Sandhya Krishnan (SandKrish) 👋</h1>
-<h3 align="center">Senior Python Developer | Data Engineering | AI| ML | Author</h3>
+<h3 align="center">Senior Python Developer | Data Engineering | AI | ML | Author</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandhya-krishnan-40a20895/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sandhyakrishnan02.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/sandhya.krishnan8275">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</p>
+
 
 ## 👩‍💻 About Me
 
