@@ -43,7 +43,8 @@
 </div>
 
 
-# Hi 👋 I'm Sandhya Krishnan — Senior Python Developer
+<h1 align="center">Hi there, I'm Sandhya Krishnan (SandKrish) 👋</h1>
+<h3 align="center">Senior Python Developer | Data Engineering | AI| ML | Author</h3>
 
 ## 👩‍💻 About Me
 
