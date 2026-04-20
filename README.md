@@ -100,6 +100,9 @@ Enterprise-grade, professional Python automation framework for multi-sheet Excel
 #### 📈 [Time Series Forecasting System](https://github.com/SandKrish/timeseries)
 Forecasting models for temporal data using statistical and ML approaches.
 
+#### 🛡️ [Data Quality](https://github.com/SandKrish/data-quality)
+Production-grade data processing and validation pipeline for multi-sheet Excel ingestion using Pydantic, ensuring structured data quality and consistency.
+
 ---
 
 ### ✍️ Writing
