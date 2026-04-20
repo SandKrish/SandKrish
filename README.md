@@ -97,24 +97,22 @@
 #### 📊 [Python Excel Automation Engine](https://github.com/SandKrish/python-automation-system)
 Enterprise-grade, professional Python automation framework for multi-sheet Excel ingestion, Pydantic-based data validation, and high-fidelity scientific visualizations using Seaborn and Matplotlib.
 
-**Data Quality Pipeline**
-Python-based validation pipeline for detecting anomalies in datasets
+#### 📈 [Time Series Forecasting System](https://github.com/SandKrish/timeseries)
+Forecasting models for temporal data using statistical and ML approaches.
 
-**Time Series Forecasting System**
-Forecasting models for temporal data using statistical and ML approaches
+---
 
-**LLM Cost Monitoring Tool**
-Tool for analyzing token usage and cost optimization in LLM APIs
+### ✍️ Writing
+I frequently write on Medium about Python engineering, Data pipelines, Data quality systems, and Practical Machine Learning concepts. Check out my articles on [Medium](https://sandhyakrishnan02.medium.com/)!
 
+---
+### 📊 GitHub Stats
 
-## ✍️ Writing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandKrish&show_icons=true&theme=radical&hide_border=true" alt="SandKrish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandKrish&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-I write on **Medium** about:
-
-• Python engineering
-• Data pipelines and analytics
-• Data quality systems
-• Practical Machine Learning concepts
 
 
 
