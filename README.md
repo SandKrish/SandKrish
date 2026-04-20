@@ -8,41 +8,6 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/sandhya-krishnan-40a20895/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/PythonDataStats/">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/sandhyakrishnan02/">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-
-<a href="https://www.kaggle.com/sandhyakrishnan02">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@sandhyakrishnan02">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/12939824/sandhya-krishnan">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@PythonDataStats">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://public.tableau.com/app/profile/sandhya.krishnan8275#!/">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-</a>
-
-</div>
-
-
 <h1 align="center">Hi there, I'm Sandhya Krishnan (SandKrish) 👋</h1>
 <h3 align="center">Senior Python Developer | Data Engineering | AI | ML | Author</h3>
 
